@@ -22077,7 +22077,7 @@ ul.cities li a {
 
 .links-widget a {
     color: rgb(255 255 255 / .6);
-    text-decoration: underline;
+    
 }
 
 .links-widget a:hover {
@@ -23005,7 +23005,7 @@ h4 {
 
 .theme-btn a {
     color: #FCFCFD !important;
-    background: var(--site-third-color);
+    background: #18a2e6;
     display: inline-flex;
     align-items: center;
     justify-content: center;
@@ -23146,7 +23146,7 @@ h4 {
     right: 0;
     position: absolute;
     /* background: linear-gradient(79.58deg, #080908 -89.17%, #05842A -29.6%, #04bef7 139.57%); */
-    background-image: url(../images/umrah-sheba/banner-umrahsheba.png);
+    background-image: url(../images/shukranhajjumrah/banner-umrahsheba.png);
     z-index: -1;
 }
 
@@ -23413,7 +23413,7 @@ h4 {
 }
 
 .bg-gradient {
-    background: linear-gradient(0deg, #033A46 -86.02%, #0B98C4 -33.57%, #15997a 115.39%);
+    background: linear-gradient(0deg, #033A46 -86.02%, #BB9E2E -33.57%, #cebb6b 115.39%);
 }
 
 .box-list {
@@ -23660,7 +23660,7 @@ h4 {
 
 .custom-package {
     position: relative;
-    background: linear-gradient(0deg, #033A46 -86.02%, #0B98C4 -33.57%, #078259 115.39%);
+    background: linear-gradient(0deg, #033A46 -86.02%, #BB9E2E -33.57%, #cebb6b 115.39%);
     overflow: hidden;
 }
 
@@ -23968,12 +23968,6 @@ h4 {
         font-size: 10px;
     }
 }
-
-
-
-
-
-
 
 .footer {
     background: var(--site-secondary-color);
@@ -24391,7 +24385,7 @@ a.agency {
 .service-sec {
     position: relative;
     z-index: 1;
-    background-color: #4fbbe6;
+    background-color: #e1cc79;
 }
 
 .service-sec.style-two {
@@ -24463,7 +24457,7 @@ a.agency {
     top: 0px;
     width: 55%;
     height: 100%;
-    background-image: url(https://www.bwallpaperhd.com/wp-content/uploads/2019/06/NASAGlobe-1366x768.jpg);
+    background-image: url(https://cdn.wallpapersafari.com/70/13/u5dGOo.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -25441,7 +25435,7 @@ ul.check-right li:before {
     line-height: 40px;
     text-align: center;
     border: 1px dashed;
-    background: #53bedf;
+    background: #df9536;
     transform: rotate(45deg);
     position: absolute !important;
     -webkit-transform: rotate(45deg);
